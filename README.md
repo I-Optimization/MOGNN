@@ -41,5 +41,8 @@ The training was performed by the optimization of 50 cases, with $$P_0 \in[1,2] 
   <img src="Fig3.png" alt="Logo" width="300">
 </div>
 MOGNN was tested for 50 cases, with new Po values. The optimal values predicted by the model were fed back into the model to compute the value of the objective function for each case. The results were compared with three "non-optimal" objective function scenarios, as shown in the following figure:
+<div align="center">
+  <img src="Fig4.png" alt="Logo" width="300">
+</div>
 
-Notice that the MOGNN was able to compute the lowest objective-function values compared to three non-optimal cases: (I) $$P_o = 1$$ and  $$P_1 = 2$$; (II)  $$P_o = 1.2 $$ and  $$P_1 = 1.8 $$; and (III) $$P_o = 1.7$$ and $$ $$P_1 = 2.1 $$. 
+Notice that the MOGNN was able to compute the lowest objective-function values compared to three non-optimal cases: (I)   $$P_0 =1 $$ and  $$P_1 = 2$$; (II)  $$P_o = 1.2 $$ and  $$P_1 = 1.8 $$; and (III) $$P_o = 1.7$$ and $$ $$P_1 = 2.1 $$. 
