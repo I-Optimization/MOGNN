@@ -32,8 +32,11 @@ P_4 = 4
 $$
 
 The system is optimized for different values of $$P_0 \in[1,2] $$. 
+<div align="center">
+  <img src="Fig2.png" alt="Logo" width="300">
+</div>
 
-The figure shows the countour curves of the function-objective regarding the decision variables, for  $$P_0=1$$. The model training was performed by the optimization of 50 cases, with $$P_0 \in[1,2] $$. The optimal values of $$P_1$$ and $$P_2$$ are displayed in the following figures:
+The figure shows the countour curves of the function-objective regarding the decision variables, for $$ P_0 \in[1,2] $$. The model training was performed by the optimization of 50 cases, with $$ P_0 \in[1,2] $$. The optimal values of $$P_1$$ and $$P_2$$ are displayed in the following figures:
 
 MOGNN was tested for 50 cases, with new Po values. The optimal values predicted by the model were fed back into the model to compute the value of the objective function for each case. The results were compared with three "non-optimal" objective function scenarios, as shown in the following figure:
 
