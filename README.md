@@ -45,4 +45,4 @@ MOGNN was tested for 50 cases, with new Po values. The optimal values predicted 
   <img src="Fig4.png" alt="Logo" width="300">
 </div>
 
-Notice that the MOGNN was able to compute the lowest objective-function values compared to three non-optimal cases: (I)   $$P_0 =1 $$ and  $$P_1 = 2$$; (II)  $$P_o = 1.2 $$ and  $$P_1 = 1.8 $$; and (III) $$P_o = 1.7$$ and $$ $$P_1 = 2.1 $$. 
+Notice that the MOGNN was able to compute the lowest objective-function values compared to three non-optimal cases: (I)   $$P_0 =1 $$ and  $$P_1 = 2$$; (II)  $$P_o = 1.2 $$ and  $$P_1 = 1.8 $$; and (III) $$P_o = 1.7$$ and $$P_1 = 2.1 $$. 
